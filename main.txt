@@ -6,3 +6,5 @@ git push -u origin master
 git branch master
 git branch emre
 git branch emre
+git branch master
+
